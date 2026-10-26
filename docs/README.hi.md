@@ -82,7 +82,6 @@ Concat **बीटा** में है: यह काम करता है, 
 
 - ✅ **Windows** · x86_64 (ARM बिल्ड फ़िलहाल रोके गए हैं, देखें [#326](https://github.com/jub0t/Concat/issues/326))। एक सेटअप और एक `.msi`। अगर SmartScreen किसी बिना हस्ताक्षर वाली बिल्ड को रोके: **More info** › **Run anyway**
 - ✅ **macOS** · Intel और Apple Silicon। अगर macOS बिना हस्ताक्षर वाली बिल्ड खोलने से मना करे: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 और ARM। `.deb`, `.rpm`, `.AppImage` और एक Arch पैकेज। साथ ही **[Flatpark](https://flatpark.org/apps/app.concat.editor/)** पर एक Flatpak, जो एक सामुदायिक Flatpak रिमोट है और हर रिलीज़ की x86_64 `.deb` को लपेटकर उसके साथ अपडेट होता है
 - ✅ **Android** · फ़ोन और टैबलेट
 - ✅ **iOS / iPadOS** · iPhone और iPad, साइडलोड करके
 

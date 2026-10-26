@@ -82,7 +82,6 @@ Concat في مرحلة **بيتا**: يعمل، وما زالت فيه حواف.
 
 - ✅ **Windows** · x86_64 (إصدارات ARM متوقفة مؤقتًا، انظر [#326](https://github.com/jub0t/Concat/issues/326)). مثبّت وملف `.msi`. إذا أوقف SmartScreen إصدارًا غير موقّع: **مزيد من المعلومات** › **التشغيل على أي حال**
 - ✅ **macOS** · Intel وApple Silicon. إذا رفض macOS فتح إصدار غير موقّع: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 وARM. ‏`.deb` و`.rpm` و`.AppImage` وحزمة Arch. وأيضًا Flatpak على **[Flatpark](https://flatpark.org/apps/app.concat.editor/)**، وهو مستودع Flatpak مجتمعي يغلّف ملف `.deb` لمعمارية x86_64 من كل إصدار ويتحدّث معه
 - ✅ **Android** · الهواتف والأجهزة اللوحية
 - ✅ **iOS / iPadOS** · iPhone وiPad، بالتثبيت الجانبي
 

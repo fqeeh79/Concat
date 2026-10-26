@@ -82,7 +82,6 @@ Concat در مرحلهٔ **بتا** است: کار می‌کند و هنوز ل�
 
 - ✅ **Windows** · x86_64 (ساخت‌های ARM فعلاً متوقف شده‌اند، [#326](https://github.com/jub0t/Concat/issues/326) را ببینید). یک نصب‌کننده و یک `.msi`. اگر SmartScreen یک نسخهٔ امضانشده را متوقف کرد: **More info** › **Run anyway**
 - ✅ **macOS** · Intel و Apple Silicon. اگر macOS از باز کردن نسخهٔ امضانشده خودداری کرد: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 و ARM. ‏`.deb`، `.rpm`، `.AppImage` و یک بستهٔ Arch. همچنین یک Flatpak روی **[Flatpark](https://flatpark.org/apps/app.concat.editor/)**، یک مخزن Flatpak اجتماعی که `.deb` معماری x86_64 هر انتشار را بسته‌بندی می‌کند و همراه آن به‌روز می‌شود
 - ✅ **Android** · گوشی‌ها و تبلت‌ها
 - ✅ **iOS / iPadOS** · iPhone و iPad، با نصب جانبی
 

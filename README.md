@@ -72,7 +72,7 @@ Everything runs locally on a native Rust engine with a GPU compositor. Install i
 Two ways in:
 
 1. **[The website](https://concatenate.pages.dev/#download)** hands you the right build for your machine. Start here.
-2. **[GitHub Releases](https://github.com/jub0t/Concat/releases)** has every build for every platform, with installers, packages and checksums. For when you want to pick.
+2. **[GitHub Releases](https://github.com/jub0t/Concat/releases)** has the official desktop installers and supported mobile builds, with checksums. Linux binaries are no longer published; Linux remains available as a source build.
 
 Concat is in **beta**: it works, and it still has edges. [Say so](https://github.com/jub0t/Concat/issues) when you find one.
 
@@ -80,7 +80,6 @@ Concat is in **beta**: it works, and it still has edges. [Say so](https://github
 
 - ✅ **Windows** · x86_64 (ARM builds are paused, see [#326](https://github.com/jub0t/Concat/issues/326)). A setup and an `.msi`. If SmartScreen stops an unsigned build: **More info** › **Run anyway**
 - ✅ **macOS** · Intel and Apple silicon. If macOS refuses to open an unsigned build: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 and ARM. `.deb`, `.rpm`, `.AppImage` and an Arch package. Also a Flatpak on **[Flatpark](https://flatpark.org/apps/app.concat.editor/)**, a community Flatpak remote that wraps the x86_64 `.deb` of each release and updates with it
 - ✅ **Android** · phones and tablets
 - ✅ **iOS / iPadOS** · iPhone and iPad, sideloaded
 
@@ -96,7 +95,7 @@ You need Rust 1.93 or newer (see `rust-version` in `src/Cargo.toml`), the FFmpeg
 
 - **macOS:** `brew install ffmpeg`
 - **Windows:** from [FFmpeg's Windows downloads](https://ffmpeg.org/download.html#build-windows), take BtbN's `win64-gpl-shared` build (the one CI uses), unpack it and point `FFMPEG_DIR` at it
-- **Linux:** use your distro's FFmpeg if it is version 7 or newer, otherwise use a BtbN `shared` build with `FFMPEG_DIR` like on Windows
+- **Linux source builds:** use your distro's FFmpeg if it is version 7 or newer, otherwise use a BtbN `shared` build with `FFMPEG_DIR` like on Windows. Official Linux binaries are not published.
 
 Then:
 

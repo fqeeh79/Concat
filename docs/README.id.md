@@ -82,7 +82,6 @@ Concat masih **beta**: ia bekerja, dan masih ada sisi kasarnya. [Beri tahu](http
 
 - ✅ **Windows** · x86_64 (build ARM sedang dijeda, lihat [#326](https://github.com/jub0t/Concat/issues/326)). Sebuah setup dan `.msi`. Jika SmartScreen menghentikan build tanpa tanda tangan: **More info** › **Run anyway**
 - ✅ **macOS** · Intel dan Apple Silicon. Jika macOS menolak membuka build tanpa tanda tangan: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 dan ARM. `.deb`, `.rpm`, `.AppImage`, dan paket Arch. Juga Flatpak di **[Flatpark](https://flatpark.org/apps/app.concat.editor/)**, remote Flatpak komunitas yang membungkus `.deb` x86_64 setiap rilis dan ikut memperbarui bersamanya
 - ✅ **Android** · ponsel dan tablet
 - ✅ **iOS / iPadOS** · iPhone dan iPad, lewat sideload
 

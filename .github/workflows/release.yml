@@ -10,8 +10,8 @@ name: Release
 # about.
 #
 # The bundles are self-contained: the macOS .dmg carries its FFmpeg dylibs
-# and is notarised when the signing secrets are set; the Linux packages
-# (.deb, .rpm, .AppImage, Arch) and the Windows installers carry the
+# and is notarised when the signing secrets are set; the Windows
+# installers carry the
 # FFmpeg runtime libraries beside the binary; the Android .apk is signed
 # with the repository's key, and the iOS .ipa is signed by the tester on
 # the way onto the phone. Nothing is built until CI has passed on the tag,
@@ -92,7 +92,7 @@ jobs:
     with:
       ref: ${{ needs.check.outputs.tag }}
 
-  # Both builds are told the tag too. Left to themselves they build the
+  # All desktop builds are told the tag too. Left to themselves they build the
   # ref the run started on, and a run started by hand starts on main:
   # 0.2.6 shipped that way, 35 commits past the tag it was named for.
   build:
