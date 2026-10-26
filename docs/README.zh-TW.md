@@ -81,9 +81,6 @@ Concat 處於 **測試版**：能用，但還有毛邊。遇到了請 [告訴我
 **平台**
 
 - ✅ **Windows** · x86_64（ARM 版本已暫停，見 [#326](https://github.com/jub0t/Concat/issues/326)）。安裝程式與 `.msi`。如果 SmartScreen 攔截未簽署版本：**其他資訊** › **仍要執行**
-- ✅ **macOS** · Intel 與 Apple 晶片。如果 macOS 拒絕開啟未簽署版本：`xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · 手機與平板
-- ✅ **iOS / iPadOS** · iPhone 與 iPad，需側載
 
 ✅ 已支援 · 🚧 開發中 · 🧪 待測試
 

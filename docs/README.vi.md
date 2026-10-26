@@ -81,9 +81,6 @@ Concat đang ở giai đoạn **beta**: nó hoạt động, và vẫn còn vài 
 **Nền tảng**
 
 - ✅ **Windows** · x86_64 (bản dựng ARM đang tạm dừng, xem [#326](https://github.com/jub0t/Concat/issues/326)). Một bộ cài và một `.msi`. Nếu SmartScreen chặn bản dựng chưa ký: **More info** › **Run anyway**
-- ✅ **macOS** · Intel và Apple Silicon. Nếu macOS từ chối mở bản dựng chưa ký: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · điện thoại và máy tính bảng
-- ✅ **iOS / iPadOS** · iPhone và iPad, qua sideload
 
 ✅ Được hỗ trợ · 🚧 Đang thực hiện · 🧪 Cần kiểm thử
 

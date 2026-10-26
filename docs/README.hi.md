@@ -81,9 +81,6 @@ Concat **बीटा** में है: यह काम करता है, 
 **प्लेटफ़ॉर्म**
 
 - ✅ **Windows** · x86_64 (ARM बिल्ड फ़िलहाल रोके गए हैं, देखें [#326](https://github.com/jub0t/Concat/issues/326))। एक सेटअप और एक `.msi`। अगर SmartScreen किसी बिना हस्ताक्षर वाली बिल्ड को रोके: **More info** › **Run anyway**
-- ✅ **macOS** · Intel और Apple Silicon। अगर macOS बिना हस्ताक्षर वाली बिल्ड खोलने से मना करे: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · फ़ोन और टैबलेट
-- ✅ **iOS / iPadOS** · iPhone और iPad, साइडलोड करके
 
 ✅ समर्थित · 🚧 काम जारी · 🧪 परखना बाकी
 

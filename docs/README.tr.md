@@ -81,9 +81,6 @@ Concat **beta** aşamasında: çalışıyor, ama hâlâ pürüzleri var. Bir tan
 **Platformlar**
 
 - ✅ **Windows** · x86_64 (ARM derlemelerine ara verildi, bkz. [#326](https://github.com/jub0t/Concat/issues/326)). Bir kurulum ve bir `.msi`. SmartScreen imzasız bir derlemeyi durdurursa: **Daha fazla bilgi** › **Yine de çalıştır**
-- ✅ **macOS** · Intel ve Apple Silicon. macOS imzasız bir derlemeyi açmayı reddederse: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · telefonlar ve tabletler
-- ✅ **iOS / iPadOS** · iPhone ve iPad, sideload ile
 
 ✅ Destekleniyor · 🚧 Çalışılıyor · 🧪 Test edilecek
 

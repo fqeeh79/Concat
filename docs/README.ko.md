@@ -81,9 +81,6 @@ Concat은 **베타**입니다: 동작하지만 아직 거친 부분이 있습니
 **플랫폼**
 
 - ✅ **Windows** · x86_64 (ARM 빌드는 일시 중단됨, [#326](https://github.com/jub0t/Concat/issues/326) 참고). 설치 프로그램과 `.msi`. SmartScreen이 서명되지 않은 빌드를 막으면: **추가 정보** › **실행**
-- ✅ **macOS** · Intel과 Apple Silicon. macOS가 서명되지 않은 빌드를 열지 않으면: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · 휴대폰과 태블릿
-- ✅ **iOS / iPadOS** · iPhone과 iPad, 사이드로드
 
 ✅ 지원 · 🚧 작업 중 · 🧪 테스트 예정
 

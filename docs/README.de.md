@@ -81,9 +81,6 @@ Concat ist in der **Beta**: Es funktioniert, hat aber noch Kanten. [Sag Bescheid
 **Plattformen**
 
 - ✅ **Windows** · x86_64 (ARM-Builds sind pausiert, siehe [#326](https://github.com/jub0t/Concat/issues/326)). Ein Setup und eine `.msi`. Wenn SmartScreen einen unsignierten Build stoppt: **Weitere Informationen** › **Trotzdem ausführen**
-- ✅ **macOS** · Intel und Apple Silicon. Wenn macOS einen unsignierten Build nicht öffnen will: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · Telefone und Tablets
-- ✅ **iOS / iPadOS** · iPhone und iPad, per Sideload
 
 ✅ Unterstützt · 🚧 In Arbeit · 🧪 Noch zu testen
 

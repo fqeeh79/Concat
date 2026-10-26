@@ -81,9 +81,6 @@ Concat в **бете**: он работает, но шероховатости �
 **Платформы**
 
 - ✅ **Windows** · x86_64 (сборки для ARM приостановлены, см. [#326](https://github.com/jub0t/Concat/issues/326)). Установщик и `.msi`. Если SmartScreen останавливает неподписанную сборку: **Подробнее** › **Выполнить в любом случае**
-- ✅ **macOS** · Intel и Apple Silicon. Если macOS отказывается открыть неподписанную сборку: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · телефоны и планшеты
-- ✅ **iOS / iPadOS** · iPhone и iPad, через sideload
 
 ✅ Поддерживается · 🚧 В работе · 🧪 Предстоит проверить
 

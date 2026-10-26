@@ -81,9 +81,6 @@ Concat **بیٹا** میں ہے: یہ کام کرتا ہے، اور ابھی ا�
 **پلیٹ فارمز**
 
 - ✅ **Windows** · x86_64 (ARM بلڈز فی الحال روکی گئی ہیں، دیکھیں [#326](https://github.com/jub0t/Concat/issues/326))۔ ایک سیٹ اپ اور ایک `.msi`۔ اگر SmartScreen غیر دستخط شدہ بلڈ روکے: **More info** › **Run anyway**
-- ✅ **macOS** · Intel اور Apple Silicon۔ اگر macOS غیر دستخط شدہ بلڈ کھولنے سے انکار کرے: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · فون اور ٹیبلٹ
-- ✅ **iOS / iPadOS** · iPhone اور iPad، سائیڈ لوڈ کے ذریعے
 
 ✅ معاون · 🚧 کام جاری · 🧪 آزمائش باقی
 

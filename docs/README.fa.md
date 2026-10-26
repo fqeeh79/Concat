@@ -81,9 +81,6 @@ Concat در مرحلهٔ **بتا** است: کار می‌کند و هنوز ل�
 **سکوها**
 
 - ✅ **Windows** · x86_64 (ساخت‌های ARM فعلاً متوقف شده‌اند، [#326](https://github.com/jub0t/Concat/issues/326) را ببینید). یک نصب‌کننده و یک `.msi`. اگر SmartScreen یک نسخهٔ امضانشده را متوقف کرد: **More info** › **Run anyway**
-- ✅ **macOS** · Intel و Apple Silicon. اگر macOS از باز کردن نسخهٔ امضانشده خودداری کرد: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · گوشی‌ها و تبلت‌ها
-- ✅ **iOS / iPadOS** · iPhone و iPad، با نصب جانبی
 
 ✅ پشتیبانی‌شده · 🚧 در دست کار · 🧪 در انتظار آزمایش
 

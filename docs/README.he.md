@@ -81,9 +81,6 @@ Concat נמצא ב**בטא**: הוא עובד, ועדיין יש לו קצוות
 **פלטפורמות**
 
 - ✅ **Windows** · x86_64 (בניות ה-ARM מושהות, ראו [#326](https://github.com/jub0t/Concat/issues/326)). תוכנית התקנה ו-`.msi`. אם SmartScreen עוצר גרסה לא חתומה: **מידע נוסף** › **הפעל בכל זאת**
-- ✅ **macOS** · Intel ו-Apple Silicon. אם macOS מסרב לפתוח גרסה לא חתומה: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · טלפונים וטאבלטים
-- ✅ **iOS / iPadOS** · iPhone ו-iPad, בהתקנה צדדית
 
 ✅ נתמך · 🚧 בעבודה · 🧪 טרם נבדק
 

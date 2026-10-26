@@ -81,9 +81,6 @@ Concat في مرحلة **بيتا**: يعمل، وما زالت فيه حواف.
 **المنصات**
 
 - ✅ **Windows** · x86_64 (إصدارات ARM متوقفة مؤقتًا، انظر [#326](https://github.com/jub0t/Concat/issues/326)). مثبّت وملف `.msi`. إذا أوقف SmartScreen إصدارًا غير موقّع: **مزيد من المعلومات** › **التشغيل على أي حال**
-- ✅ **macOS** · Intel وApple Silicon. إذا رفض macOS فتح إصدار غير موقّع: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · الهواتف والأجهزة اللوحية
-- ✅ **iOS / iPadOS** · iPhone وiPad، بالتثبيت الجانبي
 
 ✅ مدعوم · 🚧 قيد العمل · 🧪 بانتظار الاختبار
 

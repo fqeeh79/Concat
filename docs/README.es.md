@@ -81,9 +81,6 @@ Concat está en **beta**: funciona, y aún tiene aristas. [Cuéntalo](https://gi
 **Plataformas**
 
 - ✅ **Windows** · x86_64 (las compilaciones para ARM están en pausa, ver [#326](https://github.com/jub0t/Concat/issues/326)). Un instalador y un `.msi`. Si SmartScreen detiene una compilación sin firmar: **Más información** › **Ejecutar de todas formas**
-- ✅ **macOS** · Intel y Apple Silicon. Si macOS se niega a abrir una compilación sin firmar: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · teléfonos y tabletas
-- ✅ **iOS / iPadOS** · iPhone y iPad, por sideload
 
 ✅ Compatible · 🚧 En desarrollo · 🧪 Por probar
 

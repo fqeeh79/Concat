@@ -81,9 +81,6 @@ Concat এখন **বেটা** পর্যায়ে: কাজ করে,
 **প্ল্যাটফর্ম**
 
 - ✅ **Windows** · x86_64 (ARM বিল্ড আপাতত বন্ধ আছে, দেখুন [#326](https://github.com/jub0t/Concat/issues/326))। একটি সেটআপ ও একটি `.msi`। SmartScreen কোনো আনসাইনড বিল্ড আটকে দিলে: **More info** › **Run anyway**
-- ✅ **macOS** · Intel ও Apple silicon। macOS কোনো আনসাইনড বিল্ড খুলতে না দিলে: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Android** · ফোন ও ট্যাবলেট
-- ✅ **iOS / iPadOS** · iPhone ও iPad, সাইডলোড করে
 
 ✅ সমর্থিত · 🚧 কাজ চলছে · 🧪 পরীক্ষা বাকি
 
