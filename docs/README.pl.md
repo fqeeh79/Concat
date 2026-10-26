@@ -81,10 +81,6 @@ Concat jest w fazie **beta**: działa, ale wciąż ma swoje niedoróbki. [Daj zn
 **Platformy**
 
 - ✅ **Windows** · x86_64 (wersje na ARM są wstrzymane, zobacz [#326](https://github.com/jub0t/Concat/issues/326)). Instalator i `.msi`. Jeśli SmartScreen zatrzyma niepodpisaną wersję: **Więcej informacji** › **Uruchom mimo to**
-- ✅ **macOS** · Intel i Apple silicon. Jeśli macOS nie chce otworzyć niepodpisanej wersji: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 i ARM. `.deb`, `.rpm`, `.AppImage` i pakiet dla Archa. Do tego Flatpak na **[Flatpark](https://flatpark.org/apps/app.concat.editor/)**, społecznościowym repozytorium Flatpak, które opakowuje `.deb` dla x86_64 z każdego wydania i aktualizuje się razem z nim
-- ✅ **Android** · telefony i tablety
-- ✅ **iOS / iPadOS** · iPhone i iPad, przez sideloading
 
 ✅ Obsługiwane · 🚧 W trakcie prac · 🧪 Do przetestowania
 

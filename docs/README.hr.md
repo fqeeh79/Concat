@@ -81,10 +81,6 @@ Concat je u **beti**: radi, a još ima rubova. [Javite](https://github.com/jub0t
 **Platforme**
 
 - ✅ **Windows** · x86_64 (ARM inačice su pauzirane, vidi [#326](https://github.com/jub0t/Concat/issues/326)). Instalacija i `.msi`. Ako SmartScreen zaustavi nepotpisanu inačicu: **Više informacija** › **Svejedno pokreni**
-- ✅ **macOS** · Intel i Apple Silicon. Ako macOS odbije otvoriti nepotpisanu inačicu: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 i ARM. `.deb`, `.rpm`, `.AppImage` i Arch paket. Također Flatpak na **[Flatparku](https://flatpark.org/apps/app.concat.editor/)**, Flatpak repozitoriju zajednice koji omata x86_64 `.deb` svakog izdanja i ažurira se s njim
-- ✅ **Android** · telefoni i tableti
-- ✅ **iOS / iPadOS** · iPhone i iPad, sideloadom
 
 ✅ Podržano · 🚧 U izradi · 🧪 Za testiranje
 

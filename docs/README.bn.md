@@ -81,10 +81,6 @@ Concat এখন **বেটা** পর্যায়ে: কাজ করে,
 **প্ল্যাটফর্ম**
 
 - ✅ **Windows** · x86_64 (ARM বিল্ড আপাতত বন্ধ আছে, দেখুন [#326](https://github.com/jub0t/Concat/issues/326))। একটি সেটআপ ও একটি `.msi`। SmartScreen কোনো আনসাইনড বিল্ড আটকে দিলে: **More info** › **Run anyway**
-- ✅ **macOS** · Intel ও Apple silicon। macOS কোনো আনসাইনড বিল্ড খুলতে না দিলে: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 ও ARM। `.deb`, `.rpm`, `.AppImage` এবং একটি Arch প্যাকেজ। এ ছাড়া **[Flatpark](https://flatpark.org/apps/app.concat.editor/)**-এ একটি Flatpak-ও আছে, যা একটি কমিউনিটি Flatpak রিমোট; এটি প্রতিটি রিলিজের x86_64 `.deb` মুড়ে দেয় এবং রিলিজের সঙ্গে সঙ্গে আপডেট হয়
-- ✅ **Android** · ফোন ও ট্যাবলেট
-- ✅ **iOS / iPadOS** · iPhone ও iPad, সাইডলোড করে
 
 ✅ সমর্থিত · 🚧 কাজ চলছে · 🧪 পরীক্ষা বাকি
 

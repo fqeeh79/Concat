@@ -81,10 +81,6 @@ Concat อยู่ในช่วง **เบต้า**: ใช้งานไ
 **แพลตฟอร์ม**
 
 - ✅ **Windows** · x86_64 (บิลด์สำหรับ ARM หยุดไว้ชั่วคราว ดู [#326](https://github.com/jub0t/Concat/issues/326)) มีทั้งตัวติดตั้งแบบ setup และ `.msi` หาก SmartScreen บล็อกบิลด์ที่ไม่ได้ลงนาม: **More info** › **Run anyway**
-- ✅ **macOS** · Intel และ Apple silicon หาก macOS ไม่ยอมเปิดบิลด์ที่ไม่ได้ลงนาม: `xattr -dr com.apple.quarantine /Applications/Concat.app`
-- ✅ **Linux** · x86_64 และ ARM มี `.deb`, `.rpm`, `.AppImage` และแพ็กเกจสำหรับ Arch และยังมี Flatpak บน **[Flatpark](https://flatpark.org/apps/app.concat.editor/)** ซึ่งเป็นรีโมต Flatpak ของชุมชนที่แพ็ก `.deb` สำหรับ x86_64 ของแต่ละรีลีส และอัปเดตตามทุกรีลีส
-- ✅ **Android** · โทรศัพท์และแท็บเล็ต
-- ✅ **iOS / iPadOS** · iPhone และ iPad ผ่านการไซด์โหลด
 
 ✅ รองรับ · 🚧 กำลังพัฒนา · 🧪 รอการทดสอบ
 
